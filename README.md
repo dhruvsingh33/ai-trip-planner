@@ -54,12 +54,12 @@ This project is designed for **learning, demos, and resume showcase**.
 
 | Step | Screen Preview |
 |----|----|
-| 1️⃣ | Home Page <br><img src="./public/asset/1.1.png" width="100%"> |
-| 2️⃣ | Google Login <br><img src="./public/asset/2.png" width="100%"> |
-| 3️⃣ | Create Trip <br><img src="./public/asset/4.4.png" width="100%"> |
-| 4️⃣ | AI Trip Details <br><img src="./public/asset/7.png" width="100%"> |
-| 5️⃣ | My Trips <br><img src="./public/asset/6.png" width="100%"> |
-| 6️⃣ | Mobile View <br><img src="./public/asset/8.jpg" width="40%"> |
+| 1️⃣ | Home Page <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/1.1.png" width="100%"> |
+| 2️⃣ | Google Login <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/2.png" width="100%"> |
+| 3️⃣ | Create Trip <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/4.4.png" width="100%"> |
+| 4️⃣ | AI Trip Details <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/7.png" width="100%"> |
+| 5️⃣ | My Trips <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/6.png" width="100%"> |
+| 6️⃣ | Mobile View <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/8.jpg" width="40%"> |
 
 ---
 
